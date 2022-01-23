@@ -1,5 +1,7 @@
 # main links
 main:
+- title: "Algorithm"
+  url : 
   # - title: "Quick-Start Guide"
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -12,5 +14,6 @@ main:
   #   url: /sitemap/
   
   
-sidebar:
-  title : 알고리즘
+# docs:
+  # title : 알고리즘
+  # -url
