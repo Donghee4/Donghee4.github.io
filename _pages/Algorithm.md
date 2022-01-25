@@ -1,6 +1,6 @@
 ---
 layout: archive #category
-permalink: /algorithm/
+permalink: /Algorithm/
 title: "Algorithm"
 toc: true
 toc_sticky: true
