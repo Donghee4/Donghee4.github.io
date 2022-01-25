@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /Algorithm/
+title: "Algorithm"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
