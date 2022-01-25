@@ -1,4 +1,5 @@
 ---
+layout: category
 permalink: /algorithm/
 title: "Algorithm"
 toc: true
