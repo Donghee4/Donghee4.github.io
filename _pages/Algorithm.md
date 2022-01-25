@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: archive #category
 permalink: /algorithm/
 title: "Algorithm"
 toc: true
@@ -7,14 +7,12 @@ toc_sticky: true
 toc_label: "MYSELF"
 ---
 
-
-
-원하는 자기소개 상세 내용
-
 <!-- ---
-
-layout: category
-
-title: Algorithm
-
+layout: archive
+title: "Posts by Collection"
+permalink: /collection-archive/
+author_profile: true
 --- -->
+
+
+
