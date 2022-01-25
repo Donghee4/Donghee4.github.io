@@ -2,6 +2,6 @@
 
 layout: category
 
-title: Algorithm123
+title: Algorithm
 
 ---
