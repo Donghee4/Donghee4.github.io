@@ -293,4 +293,5 @@ defaults:
 #   portfolio:
 #     output: true
 #     permalink: /:collection/:path/
-include: ["_pages"]
+
+# include: ["_pages"]
