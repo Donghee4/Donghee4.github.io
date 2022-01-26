@@ -11,5 +11,5 @@ sidebar_main: true
 {% assign posts = site.etc %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
 
-{% assign posts = site.categories.etc %}
-{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
+<!-- {% assign posts = site.categories.etc %} -->
+<!-- {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %} -->
