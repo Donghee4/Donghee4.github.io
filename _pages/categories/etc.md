@@ -1,7 +1,7 @@
 ---
 title: "etc"
 layout: archive
-permalink:  /categories/etc  #/etc/
+permalink:  /etc/    #/categories/etc 이거 쓰면 빌드는 되는데 디플로이에서 에러남
 author_profile: true
 sidebar_main: true
 ---
