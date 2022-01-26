@@ -1,7 +1,7 @@
 ---
 title: "etc"
 layout: archive
-permalink: /etc/ #categories/etc
+permalink:  categories/etc  #/etc/
 author_profile: true
 sidebar_main: true
 ---
@@ -11,5 +11,5 @@ sidebar_main: true
 {% assign posts = site.etc %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
 
-<!-- {% assign posts = site.categories.Cpp %}
-{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %} -->
+{% assign posts = site.categories.etc %}
+{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
