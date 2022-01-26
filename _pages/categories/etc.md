@@ -1,7 +1,7 @@
 ---
 title: "etc"
 layout: archive
-permalink:  categories/etc  #/etc/
+permalink:  /categories/etc  #/etc/
 author_profile: true
 sidebar_main: true
 ---
