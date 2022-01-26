@@ -1,7 +1,7 @@
 ---
 title: "etc"
 layout: archive
-permalink:  /categories/etc    #/etc/   
+permalink:  /etc/   #/categories/etc  categories폴더에 넣고 이 주소로 변경하면 디플로이 실패함. 폴더에 안넣고 이 주소로 해도 실패함
 author_profile: true
 sidebar_main: true
 ---
