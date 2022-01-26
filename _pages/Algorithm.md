@@ -7,12 +7,7 @@ toc_sticky: true
 toc_label: "MYSELF"
 ---
 
-<!-- ---
-layout: archive
-title: "Posts by Collection"
-permalink: /collection-archive/
-author_profile: true
---- -->
+### 추가 예정 ###
 
 {% capture written_label %}'None'{% endcapture %}
 
