@@ -6,7 +6,7 @@ author_profile: true
 sidebar_main: true
 ---
 
-### 추가 예정 ###
+### 카테고리 추가 예정 ###
 
 {% assign posts = site.etc %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

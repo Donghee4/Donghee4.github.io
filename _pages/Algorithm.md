@@ -7,7 +7,7 @@ toc_sticky: true
 toc_label: "MYSELF"
 ---
 
-### 추가 예정 ###
+카테고리 추가 예정됨 
 
 {% capture written_label %}'None'{% endcapture %}
 
