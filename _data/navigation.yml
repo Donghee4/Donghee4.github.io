@@ -12,7 +12,8 @@ main:
   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  
+- title: "etc"
+  url: /etc/
   
 # docs:
   # title : 알고리즘
