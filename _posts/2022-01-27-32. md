@@ -1,0 +1,35 @@
+---
+layout: single
+categories: Algorithm
+title: "백준 17609번 회문 파이썬 풀이"
+---
+#### 실버1, 구현, 문자열, 두 포인터
+
+```py
+def pal(a):    #포인터 사용 X
+    if a == a[::-1]:
+        return True
+
+def check(a):
+    if pal(a):  #회문 체크
+        return 0
+    
+    left = 0
+    right = len(a)-1
+    
+    while left < right:     #포인터 사용 O
+        if a[left] == a[right]:
+            left += 1
+            right -= 1
+        else:   #문자가 다를경우 유사회문 체크
+            if pal(a[left+1:right+1]) or pal(a[left:right]):    #left 문자를 제거할경우와 right 문자를 제거할경우 
+                return 1
+            else:
+                return 2
+
+num =int(input())
+for _ in range(num):
+    a = input().strip()
+    print(check(a))
+```
+

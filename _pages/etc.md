@@ -1,7 +1,7 @@
 ---
 title: "etc"
 layout: archive
-permalink:  /etc/   #여기 뭔가 있으면 필드가 실패하나
+permalink:  /etc/   
 author_profile: true
 sidebar_main: true
 ---
